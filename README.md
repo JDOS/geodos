@@ -9,3 +9,6 @@ Geo Data Operating System / Sistema de Operação de Dados Geográficos
 | **Camadas/Layers** | WMS, WFS, WMTS | Consumo de serviços externos |
 | **Modelos de terreno** | MDE, MDT, MDS, curvas de nível | Análise de relevo, declividade, perfil |
 | **Imagens** | Ortofoto, satélite | Basemap, análise visual |
+
+
+Integração com PostGIS + Leaflet + OpenLayer + Maplibre + Potree
