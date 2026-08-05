@@ -12,3 +12,31 @@ Geo Data Operating System / Sistema de Operação de Dados Geográficos
 
 
 Integração com PostGIS + Leaflet + OpenLayer + Maplibre + Potree
+
+## Python
+Versão `3.12.x` foi a escolhida devido a compatibilidade com os pacotes e tools GIS.
+>https://www.python.org/downloads/release/python-3129/
+
+## Dependências
+
+### GDAL
+
+Instalação GDAL dependência:
+
+#### Linux:
+
+> `apt-get install -y gdal-bin libgdal-dev`
+
+> `pip install gdal`
+
+#### Windows:
+
+Download pré-compilado:
+
+https://github.com/cgohlke/geospatial-wheels/releases
+
+Assets -> GDAL-3.x.x-cp312-cp312-win_amd64.whl
+
+> `pip install GDAL-3.x.x-cp312-cp312-win_amd64.whl`
+
+
