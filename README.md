@@ -26,6 +26,7 @@ Instalação GDAL dependência:
 #### Linux:
 
 > `apt-get install -y gdal-bin libgdal-dev`
+
 > `pip install gdal`
 
 #### Windows:
