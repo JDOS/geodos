@@ -16,8 +16,9 @@ Integração com PostGIS + Leaflet + OpenLayer + Maplibre + Potree
 ## Dependências
 
 ### GDAL
+Instalação dos pacotes de dependência:
+> `apt-get install -y gdal-bin libgdal-dev`
 
-`apt-get install -y gdal-bin libgdal-dev`
-
-`pip install gdal`
+Instalação no ambiente:
+> `pip install gdal`
 
