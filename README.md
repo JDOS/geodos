@@ -13,6 +13,9 @@ Geo Data Operating System / Sistema de Operação de Dados Geográficos
 
 Integração com PostGIS + Leaflet + OpenLayer + Maplibre + Potree
 
+## Python
+Versão `3.12.x` foi a escolhida devido a compatibilidade com os pacotes e tools GIS.
+
 ## Dependências
 
 ### GDAL
