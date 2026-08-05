@@ -23,14 +23,18 @@ Versão `3.12.x` foi a escolhida devido a compatibilidade com os pacotes e tools
 
 Instalação GDAL dependência:
 
-####Linux:
+#### Linux:
 
 > `apt-get install -y gdal-bin libgdal-dev`
 
-####Windows:
+#### Windows:
+
 Download pré-compilado:
+
 https://github.com/cgohlke/geospatial-wheels/releases
+
 Assets -> GDAL-3.x.x-cp312-cp312-win_amd64.whl
+
 > `pip install GDAL-3.x.x-cp312-cp312-win_amd64.whl`
 
 
